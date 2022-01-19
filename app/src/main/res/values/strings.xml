@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BMICalculatorIrsyad</string>
+    <string name="githublink">amirulirsyad (<a href="https://github.com/amirulirsyad/individualAssignment.git">click here</a>)</string>
+    <string name="youtubelink">Muhammad Amirul Irsyad Mohd Rashid (<a href="https://www.youtube.com/channel/UCxsh1vs2-dSU6eGdOiLvKbg">click here</a>)</string>
+<string name="emaillink">amirulirsyad01@gmail.com (<a href="mailto:amirulirsyad01@gmail.com">click here</a>)</string>
+</resources>
