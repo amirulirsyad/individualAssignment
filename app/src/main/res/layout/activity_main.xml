@@ -51,6 +51,7 @@
         android:layout_gravity="center_horizontal"
         android:ems="6"
         android:textAlignment="center"
+        android:inputType="number|phone"
         />
 
     <TextView
@@ -69,6 +70,7 @@
         android:layout_gravity="center_horizontal"
         android:ems="6"
         android:textAlignment="center"
+        android:inputType="number|phone"
         />
 
     <Button
